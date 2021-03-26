@@ -7,6 +7,9 @@ name = "pypi"
 django = {version = "*", index = "https://mirrors.aliyun.com/pypi/simple/"}
 djangorestframework = {version = "*", index = "https://mirrors.aliyun.com/pypi/simple/"}
 django-filter = {version = "*", index = "https://mirrors.aliyun.com/pypi/simple/"}
+dj-rest-auth = {version = "*", index = "https://mirrors.aliyun.com/pypi/simple/"}
+django-cors-headers = {version = "*", index = "https://mirrors.aliyun.com/pypi/simple/"}
+flask = {version = "*", index = "https://mirrors.aliyun.com/pypi/simple/"}
 
 [dev-packages]
 
